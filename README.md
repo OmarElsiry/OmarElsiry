@@ -23,7 +23,6 @@
 ![Firebase](https://img.shields.io/badge/Firebase-%233399CC.svg?style=for-the-badge&logo=firebase&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23142529.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Haskell](https://img.shields.io/badge/Haskell-%2013239.svg?style=for-the-badge&logo=haskell&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323332.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-%2397CFF0.svg?style=for-the-badge&logo=kotlin&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white)
